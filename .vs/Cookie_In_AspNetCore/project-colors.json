@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "897be5f6-b8ed-4e3f-9177-a8f9e948aa85": {
+      "ProjectGuid": "897be5f6-b8ed-4e3f-9177-a8f9e948aa85",
+      "DisplayName": "Cookie_In_AspNetCore",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
